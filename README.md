@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning software development and data science
 - 💞️ I’m looking forward to collaborate on great ideas and projects.
 - 📫 How to reach me:
+  
            mailto:njorogejoy78@gmail.com                      
            https://github.com/JoyNjoroge                         
            https://www.tiktok.com/@justkunta                          
