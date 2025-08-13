@@ -23,14 +23,6 @@ I'm passionate about building impactful software and exploring the world of data
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical)
-
----
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JoyNjoroge)
-
----
-
 ## 📫 How to Reach Me
 
 - Email: njorogejoy78@gmail.com
@@ -49,7 +41,13 @@ I'm passionate about building impactful software and exploring the world of data
 - 💡 Motto: Imagination is better than knowledge.
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical)
 
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=JoyNjoroge)
+
+---
 <!--
 **JoyNjoroge/JoyNjoroge** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
