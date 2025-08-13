@@ -48,6 +48,14 @@ I'm passionate about building impactful software and exploring the world of data
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JoyNjoroge)
 
 ---
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyNjoroge&show_icons=true&theme=radical)
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyNjoroge&theme=github)
+
+---
 <!--
 **JoyNjoroge/JoyNjoroge** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
