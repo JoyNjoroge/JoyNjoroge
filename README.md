@@ -23,13 +23,11 @@ I'm passionate about building impactful software and exploring the world of data
 
 ---
 
-## 🌟 Featured Projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical)
 
-- **Sauti App**
-- **Description**: "This application provides a platform for users to request services (shelter, counseling, legal aid) and includes an admin dashboard to manage these requests. The system usees:React for the frontend, JSON Server as a mock backend, Conditional rendering for admin/user views and Persistent data storage in db.json"
-- **Deployed link**: "https://sautiapp.vercel.app/"
--
-- [More Projects...](https://github.com/JoyNjoroge?tab=repositories)
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=JoyNjoroge)
 
 ---
 
