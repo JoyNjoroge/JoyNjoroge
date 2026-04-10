@@ -2,7 +2,7 @@
 
 **"Life is like this 📉, I like this 📈."**
 
-I bridge the gap between high-frequency financial modeling and full-stack engineering. While my focus is the precision of **Quantitative Finance**, my superpower is the ability to build, ship, and scale robust software from the ground up. I don't just analyze market data—I build the systems that conquer it.
+I bridge the gap between high-frequency financial modeling and full-stack engineering. While my focus is the precision of **Quantitative Finance**, my superpower is the ability to build, ship, and scale robust software from the ground up. I don't just analyze market data. I build the systems that conquer it.
 
 ---
 
@@ -52,12 +52,14 @@ I bridge the gap between high-frequency financial modeling and full-stack engine
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNjoroge&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 🛠 Tech Stack Distribution
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=JoyNjoroge&show_icons=true&theme=radical&hide_border=true" alt="Joy's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+### 📈 Contribution Heatmap
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNjoroge&theme=github-compact&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
 ---
