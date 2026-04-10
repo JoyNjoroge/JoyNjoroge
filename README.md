@@ -18,9 +18,9 @@ I bridge the gap between high-frequency financial modeling and full-stack engine
 
 | Domain | Tech Stack |
 | :--- | :--- |
-| **Quantitative** | Python (Pandas, NumPy, Scikit-Learn), Alpha Design, Risk Analytics |
-| **Development** | React Native (Expo), Flask, FastAPI, PostgreSQL, Node.js |
-| **DevOps & Tools** | Docker, Git, SQL, Jupyter, Linux |
+| **Quantitative** | Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib), Alpha Design, Risk Analytics |
+| **Development** | React Native (Expo), React.JS, Flask, FastAPI, PostgreSQL, Node.js |
+| **DevOps & Tools** | Docker, Git, SQL, Jupyter, Linux. VSCode |
 
 ---
 
