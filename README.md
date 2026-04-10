@@ -51,10 +51,14 @@ I bridge the gap between high-frequency financial modeling and full-stack engine
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNjoroge&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ### 💻 Languages & Mastery
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ### 📈 Contribution Heatmap
 <p align="center">
