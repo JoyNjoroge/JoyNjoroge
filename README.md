@@ -47,12 +47,17 @@ I bridge the gap between high-frequency financial modeling and full-stack engine
 ---
 
 ## 📊 Performance Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNjoroge&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyNjoroge&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=JoyNjoroge&show_icons=true&theme=radical&hide_border=true" alt="Joy's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
