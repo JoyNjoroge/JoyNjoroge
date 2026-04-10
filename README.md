@@ -1,62 +1,63 @@
-# 👋 Hi there, I'm Joy Njoroge!
+# 📉 Joy Njoroge | Quant-Dev & Financial Systems Architect
 
-Welcome to my GitHub profile!  
-I'm passionate about building impactful software and exploring the world of data science.
+**"Life is like this 📉, I like this 📈."**
 
----
-
-## 🚀 About Me
-
-- 👩‍💻 Software Developer | Data Science Enthusiast
-- 🌱 Currently learning: advanced software development and data science techniques
-- 🤝 Always open to collaborate on exciting ideas and projects
-- 📝 I love sharing knowledge and helping others in the tech community
+I bridge the gap between high-frequency financial modeling and full-stack engineering. While my focus is the precision of **Quantitative Finance**, my superpower is the ability to build, ship, and scale robust software from the ground up. I don't just analyze market data—I build the systems that conquer it.
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Other:** Data Analysis, Machine Learning, APIs
-
----
-
-## 📫 How to Reach Me
-
-- Email: njorogejoy78@gmail.com
-- GitHub: [JoyNjoroge](https://github.com/JoyNjoroge)
-- TikTok: [@justkunta](https://www.tiktok.com/@justkunta)
-- Facebook: [writerjoynjorege](https://facebook.com/writerjoynjorege)
-- Instagram: [@just_kunta](https://instagram.com/just_kunta)
-- WhatsApp: [+13156325279](https://wa.me/+254795776445)
+## 🚀 The Mission
+- 🧩 **Quant-Dev:** Designing algorithmic trading systems and alpha generation models.
+- 🏗️ **Builder:** Shipping full-stack fintech solutions (NLP, ELD Systems, API Architectures).
+- 🎓 **Academic:** Mastering Financial Engineering at WorldQuant University.
+- 🎖️ **Gold Level Researcher:** Verified Alpha designer on WorldQuant BRAIN with **30,000+ points**.
 
 ---
 
-## 🐕 Fun Facts
+## 🛠️ The Arsenal
 
-- 👩 Pronouns: she/her
-- 🐶 I love dogs!
-- 💡 Motto: Imagination is better than knowledge.
-
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical)
-
----
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JoyNjoroge)
+| Domain | Tech Stack |
+| :--- | :--- |
+| **Quantitative** | Python (Pandas, NumPy, Scikit-Learn), Alpha Design, Risk Analytics |
+| **Development** | React Native (Expo), Flask, FastAPI, PostgreSQL, Node.js |
+| **DevOps & Tools** | Docker, Git, SQL, Jupyter, Linux |
 
 ---
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyNjoroge&show_icons=true&theme=radical)
+## 📈 Featured Systems
+- **Kunta Quant Systems (KQS):** A professional brand for quantitative consultancy and research.
+- **FleetLog (ELD):** An FMCSA-compliant logistics engine built with Expo and Python.
+- **LoanLens:** A fintech tool using OCR and NLP to expose predatory lending.
+- **ApplyBotPro:** An AI-driven automation tool for the modern job market.
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyNjoroge&theme=github)
+## 📫 Connect & Collaborate
+
+<p align="left">
+<a href="https://linkedin.com/in/joynjorogesaas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.joynjoroge.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:njorogejoy78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+- **Official Website:** [www.joynjoroge.site](https://www.joynjoroge.site)
+- **LinkedIn Professional:** [joynjorogesaas](https://linkedin.com/in/joynjorogesaas)
+- **WhatsApp:** [+254 795 776 445](https://wa.me/254795776445)
 
 ---
-<!--
-**JoyNjoroge/JoyNjoroge** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+
+## 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNjoroge&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyNjoroge&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐕 Beyond the Code
+- **Pronouns:** She/Her
+- **Companion:** Avid dog lover.
+- **Philosophy:** Imagination is the blueprint; Code is the execution.
