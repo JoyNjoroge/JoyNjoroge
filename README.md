@@ -1,78 +1,90 @@
-# 📉 Joy Njoroge | Quant-Dev & Financial Systems Architect
+# Joy Njoroge | Fintech Data Engineer
 
-**"Life is like this 📉, I like this 📈."**
+Building reliable data pipelines, analytical systems, and software products for lending, payments, and financial-risk use cases.
 
-I bridge the gap between high-frequency financial modeling and full-stack engineering. While my focus is the precision of **Quantitative Finance**, my superpower is the ability to build, ship, and scale robust software from the ground up. I don't just analyze market data. I build the systems that conquer it.
+I have a background in actuarial science, software engineering, and applied data science. My current focus is data engineering for fintech and risk systems, using Python, SQL, PostgreSQL, and modern data-platform tools.
 
----
+## Current Focus
 
-## 🚀 The Mission
-- 🧩 **Quant-Dev:** Designing algorithmic trading systems and alpha generation models.
-- 🏗️ **Builder:** Shipping full-stack fintech solutions (NLP, ELD Systems, API Architectures).
-- 🎓 **Academic:** Mastering Financial Engineering at WorldQuant University.
-- 🎖️ **Gold Level Researcher:** Verified Alpha designer on WorldQuant BRAIN with **30,000+ points**.
+* Designing reliable batch and analytical data pipelines
+* Building financial-risk and lending datasets
+* Developing data-quality checks and reproducible transformations
+* Creating production-oriented Python and SQL systems
+* Applying actuarial and statistical knowledge to financial data problems
 
----
+## Core Technologies
 
-## 🛠️ The Arsenal
+| Area                 | Technologies                             |
+| -------------------- | ---------------------------------------- |
+| Data Engineering     | Python, SQL, PostgreSQL, Pandas, Docker  |
+| Backend Engineering  | FastAPI, Flask, REST APIs                |
+| Data Analysis        | NumPy, Scikit-learn, Matplotlib, Jupyter |
+| Software Development | TypeScript, JavaScript, React            |
+| Tools                | Git, Linux, VS Code                      |
 
-| Domain | Tech Stack |
-| :--- | :--- |
-| **Quantitative** | Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib), Alpha Design, Risk Analytics |
-| **Development** | React Native (Expo), React.JS, Flask, FastAPI, PostgreSQL, Node.js |
-| **DevOps & Tools** | Docker, Git, SQL, Jupyter, Linux. VSCode |
+Currently expanding my data-engineering stack through dbt, workflow orchestration, cloud platforms, data modelling, and pipeline observability.
 
----
+## Featured Work
 
-## 📈 Featured Systems
-- **Kunta Quant Systems (KQS):** A professional brand for quantitative consultancy and research.
-- **FleetLog (ELD):** An FMCSA-compliant logistics engine built with Expo and Python.
-- **LoanLens:** A fintech tool using OCR and NLP to expose predatory lending.
-- **ApplyBotPro:** An AI-driven automation tool for the modern job market.
+### Fintech Risk Data Platform
 
----
+An end-to-end data-engineering project for processing loan, repayment, delinquency, and customer-event data.
 
-## 📫 Connect & Collaborate
+Planned components include:
 
-<p align="left">
-<a href="https://linkedin.com/in/joynjorogesaas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.joynjoroge.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:njorogejoy78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+* Incremental data ingestion
+* PostgreSQL data storage
+* SQL and dbt transformations
+* Data-quality testing
+* Workflow orchestration
+* Loan-vintage and delinquency analysis
+* Survival analysis for time-to-default data
+* Docker-based deployment
 
-- **Official Website:** [www.joynjoroge.site](https://www.joynjoroge.site)
-- **LinkedIn Professional:** [joynjorogesaas](https://linkedin.com/in/joynjorogesaas)
-- **WhatsApp:** [+254 795 776 445](https://wa.me/254795776445)
+Project currently in development.
 
----
+### LoanLens
 
-## 📊 Performance Metrics
+A fintech application that uses document processing and natural-language analysis to help users inspect loan agreements and identify potentially harmful lending terms.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNjoroge&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+**Focus:** Fintech software, document analysis, consumer lending, and financial-risk communication.
 
-### 💻 Languages & Mastery
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### FleetLog
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
+A fleet and driver-management application designed around electronic logging and transport-compliance workflows.
 
-### 📈 Contribution Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNjoroge&theme=github-compact&bg_color=0d1117&hide_border=true" width="100%" />
-</p>
+**Focus:** Operational software, driver records, logistics workflows, and mobile application development.
 
----
+### ApplyBotPro
 
-## 🐕 Beyond the Code
-- **Pronouns:** She/Her
-- **Companion:** Avid dog lover.
-- **Philosophy:** Imagination is the blueprint; Code is the execution.
+A job-application platform that supports CV processing, job matching, and application workflow automation.
+
+**Focus:** Python backend development, document processing, APIs, and full-stack software engineering.
+
+## Quantitative Background
+
+* Degree in Actuarial Science
+* Certification in Software Engineering
+* Completed the WorldQuant University Applied Data Science Lab
+* Experience with statistical modelling, risk analytics, and financial data
+* WorldQuant BRAIN research participation with more than 30,000 points
+
+My quantitative background supports my work in credit risk, lending analytics, financial modelling, and risk-data systems. My primary professional direction is fintech data engineering.
+
+## What I Am Building Toward
+
+I am developing expertise in:
+
+* Financial and risk-data platforms
+* Credit-risk data pipelines
+* Payment and transaction systems
+* Data warehousing and dimensional modelling
+* Pipeline testing and observability
+* Analytics engineering
+* Cloud-based data infrastructure
+
+## Connect
+
+* [Portfolio](https://www.joynjoroge.site)
+* [LinkedIn](https://linkedin.com/in/joynjorogesaas)
+* [Email](mailto:njorogejoy78@gmail.com)
