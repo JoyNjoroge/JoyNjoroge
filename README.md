@@ -1,90 +1,104 @@
-# Joy Njoroge | Fintech Data Engineer
+# Joy Njoroge
 
-Building reliable data pipelines, analytical systems, and software products for lending, payments, and financial-risk use cases.
+### Financial Engineering · Quantitative Finance · Risk
 
-I have a background in actuarial science, software engineering, and applied data science. My current focus is data engineering for fintech and risk systems, using Python, SQL, PostgreSQL, and modern data-platform tools.
+I’m a Financial Engineering graduate student with a background in Actuarial Science and Software Engineering. I’m interested in using mathematics, statistics, and computation to understand financial problems — particularly questions involving risk, markets, lending, and investment decisions.
 
-## Current Focus
+My actuarial background gave me a strong foundation in probability, statistics, risk theory, and financial mathematics. Software engineering taught me how to turn ideas into working systems. I’m now bringing those two sides together through financial engineering and quantitative research.
 
-* Designing reliable batch and analytical data pipelines
-* Building financial-risk and lending datasets
-* Developing data-quality checks and reproducible transformations
-* Creating production-oriented Python and SQL systems
-* Applying actuarial and statistical knowledge to financial data problems
+## What I Work On
 
-## Core Technologies
+* Quantitative finance and financial research
+* Risk and financial modeling
+* Statistical analysis and machine learning
+* Credit and lending analytics
+* Financial markets and factor research
+* Python-based quantitative applications
 
-| Area                 | Technologies                             |
-| -------------------- | ---------------------------------------- |
-| Data Engineering     | Python, SQL, PostgreSQL, Pandas, Docker  |
-| Backend Engineering  | FastAPI, Flask, REST APIs                |
-| Data Analysis        | NumPy, Scikit-learn, Matplotlib, Jupyter |
-| Software Development | TypeScript, JavaScript, React            |
-| Tools                | Git, Linux, VS Code                      |
+I’m particularly interested in problems where the mathematics matters just as much as the implementation.
 
-Currently expanding my data-engineering stack through dbt, workflow orchestration, cloud platforms, data modelling, and pipeline observability.
+## Quantitative Research
 
-## Featured Work
+One of my main research projects is an **Alpha Generator Bot** built around the WorldQuant BRAIN platform.
 
-### Fintech Risk Data Platform
+The project explores quantitative factors and alpha signals using financial and alternative data, with statistical validation used to evaluate and filter signals.
 
-An end-to-end data-engineering project for processing loan, repayment, delinquency, and customer-event data.
+**Focus:** quantitative research · factor modeling · alpha generation · statistical validation · Python
 
-Planned components include:
+## Financial & Risk Modeling
 
-* Incremental data ingestion
-* PostgreSQL data storage
-* SQL and dbt transformations
-* Data-quality testing
-* Workflow orchestration
-* Loan-vintage and delinquency analysis
-* Survival analysis for time-to-default data
-* Docker-based deployment
+My work in financial modeling is strongly influenced by my actuarial and financial engineering background.
 
-Project currently in development.
+I have worked with concepts including:
+
+* Probability and statistical modeling
+* Survival analysis and time-to-event models
+* Risk measurement
+* Credit and lending analysis
+* Time-series analysis
+* Portfolio analysis and optimization
+* Financial forecasting
+* Machine learning for financial problems
+
+These interests have led me to projects spanning credit risk, lending, financial markets, and quantitative analysis.
+
+## Selected Projects
 
 ### LoanLens
 
-A fintech application that uses document processing and natural-language analysis to help users inspect loan agreements and identify potentially harmful lending terms.
+An AI-powered loan analysis platform designed to help users understand loan products and identify potentially harmful lending terms.
 
-**Focus:** Fintech software, document analysis, consumer lending, and financial-risk communication.
+**Focus:** credit and lending · financial modeling · risk analysis · NLP · Python · PostgreSQL
 
-### FleetLog
+### Alpha Generator Bot
 
-A fleet and driver-management application designed around electronic logging and transport-compliance workflows.
+An automated research tool for generating and evaluating quantitative alpha signals on WorldQuant BRAIN.
 
-**Focus:** Operational software, driver records, logistics workflows, and mobile application development.
+**Focus:** quantitative research · factor modeling · financial data · statistical validation · Python
 
 ### ApplyBotPro
 
-A job-application platform that supports CV processing, job matching, and application workflow automation.
+A job-application automation platform combining document processing, job matching, and backend services.
 
-**Focus:** Python backend development, document processing, APIs, and full-stack software engineering.
+**Focus:** Python · APIs · PostgreSQL · document processing · software engineering
 
-## Quantitative Background
+### Portfolio
 
-* Degree in Actuarial Science
-* Certification in Software Engineering
-* Completed the WorldQuant University Applied Data Science Lab
-* Experience with statistical modelling, risk analytics, and financial data
-* WorldQuant BRAIN research participation with more than 30,000 points
+A collection of quantitative, financial, data analysis, and software projects documenting my development across financial engineering and computational work.
 
-My quantitative background supports my work in credit risk, lending analytics, financial modelling, and risk-data systems. My primary professional direction is fintech data engineering.
+## Technical Stack
 
-## What I Am Building Toward
+**Languages & Analysis**
+Python · SQL · NumPy · Pandas · Scikit-learn · Matplotlib
 
-I am developing expertise in:
+**Quantitative & Financial**
+Statistical Modeling · Machine Learning · Time Series · Risk Modeling · Financial Modeling · Portfolio Analysis
 
-* Financial and risk-data platforms
-* Credit-risk data pipelines
-* Payment and transaction systems
-* Data warehousing and dimensional modelling
-* Pipeline testing and observability
-* Analytics engineering
-* Cloud-based data infrastructure
+**Engineering**
+PostgreSQL · FastAPI · Flask · REST APIs · Docker · Git · Linux
 
-## Connect
+## Background
 
-* [Portfolio](https://www.joynjoroge.site)
-* [LinkedIn](https://linkedin.com/in/joynjorogesaas)
-* [Email](mailto:njorogejoy78@gmail.com)
+**MSc Financial Engineering** — WorldQuant University
+**BSc Actuarial Science** — Mount Kenya University
+**Software Engineering** — Moringa School
+
+My academic and technical background sits at the intersection of **mathematics, finance, risk, and software**.
+
+## What I'm Building Toward
+
+I’m continuing to deepen my work in quantitative finance, with particular interest in:
+
+* Quantitative research
+* Quantitative risk and risk modeling
+* Financial modeling
+* Credit and lending models
+* Portfolio and market analysis
+* Computational finance
+
+I’m especially interested in problems where rigorous mathematical reasoning can be combined with practical computation to produce something useful.
+
+---
+
+**Portfolio:** joynjoroge.site
+**GitHub:** github.com/JoyNjoroge
