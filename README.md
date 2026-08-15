@@ -2,7 +2,7 @@
 
 ### Financial Engineering · Quantitative Finance · Risk
 
-I’m a Financial Engineering graduate student with a background in Actuarial Science and Software Engineering. I’m interested in using mathematics, statistics, and computation to understand financial problems — particularly questions involving risk, markets, lending, and investment decisions.
+I’m a Financial Engineering graduate student with a background in Actuarial Science and Software Engineering. I’m interested in using mathematics, statistics, and computation to understand financial problems particularly questions involving risk, markets, lending, and investment decisions.
 
 My actuarial background gave me a strong foundation in probability, statistics, risk theory, and financial mathematics. Software engineering taught me how to turn ideas into working systems. I’m now bringing those two sides together through financial engineering and quantitative research.
 
@@ -79,9 +79,9 @@ PostgreSQL · FastAPI · Flask · REST APIs · Docker · Git · Linux
 
 ## Background
 
-**MSc Financial Engineering** — WorldQuant University
-**BSc Actuarial Science** — Mount Kenya University
-**Software Engineering** — Moringa School
+**MSc Financial Engineering** —> WorldQuant University
+**BSc Actuarial Science** —> Mount Kenya University
+**Software Engineering** —> Moringa School
 
 My academic and technical background sits at the intersection of **mathematics, finance, risk, and software**.
 
