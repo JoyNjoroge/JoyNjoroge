@@ -1,104 +1,116 @@
-# Joy Njoroge
+<div align="center">
+
+<img src="up.svg" alt="Animated clouds and quantitative symbols" width="100%">
+
+<br>
+
+<img src="joy-njoroge-title.png" alt="Joy Njoroge" width="430">
 
 ### Financial Engineering · Quantitative Finance · Risk
 
-I’m a Financial Engineering graduate student with a background in Actuarial Science and Software Engineering. I’m interested in using mathematics, statistics, and computation to understand financial problems particularly questions involving risk, markets, lending, and investment decisions.
+*Mathematics · Statistics · Computation*
 
-My actuarial background gave me a strong foundation in probability, statistics, risk theory, and financial mathematics. Software engineering taught me how to turn ideas into working systems. I’m now bringing those two sides together through financial engineering and quantitative research.
-
-## What I Work On
-
-* Quantitative finance and financial research
-* Risk and financial modeling
-* Statistical analysis and machine learning
-* Credit and lending analytics
-* Financial markets and factor research
-* Python-based quantitative applications
-
-I’m particularly interested in problems where the mathematics matters just as much as the implementation.
-
-## Quantitative Research
-
-One of my main research projects is an **Alpha Generator Bot** built around the WorldQuant BRAIN platform.
-
-The project explores quantitative factors and alpha signals using financial and alternative data, with statistical validation used to evaluate and filter signals.
-
-**Focus:** quantitative research · factor modeling · alpha generation · statistical validation · Python
-
-## Financial & Risk Modeling
-
-My work in financial modeling is strongly influenced by my actuarial and financial engineering background.
-
-I have worked with concepts including:
-
-* Probability and statistical modeling
-* Survival analysis and time-to-event models
-* Risk measurement
-* Credit and lending analysis
-* Time-series analysis
-* Portfolio analysis and optimization
-* Financial forecasting
-* Machine learning for financial problems
-
-These interests have led me to projects spanning credit risk, lending, financial markets, and quantitative analysis.
-
-## Selected Projects
-
-### LoanLens
-
-An AI-powered loan analysis platform designed to help users understand loan products and identify potentially harmful lending terms.
-
-**Focus:** credit and lending · financial modeling · risk analysis · NLP · Python · PostgreSQL
-
-### Alpha Generator Bot
-
-An automated research tool for generating and evaluating quantitative alpha signals on WorldQuant BRAIN.
-
-**Focus:** quantitative research · factor modeling · financial data · statistical validation · Python
-
-### ApplyBotPro
-
-A job-application automation platform combining document processing, job matching, and backend services.
-
-**Focus:** Python · APIs · PostgreSQL · document processing · software engineering
-
-### Portfolio
-
-A collection of quantitative, financial, data analysis, and software projects documenting my development across financial engineering and computational work.
-
-## Technical Stack
-
-**Languages & Analysis**
-Python · SQL · NumPy · Pandas · Scikit-learn · Matplotlib
-
-**Quantitative & Financial**
-Statistical Modeling · Machine Learning · Time Series · Risk Modeling · Financial Modeling · Portfolio Analysis
-
-**Engineering**
-PostgreSQL · FastAPI · Flask · REST APIs · Docker · Git · Linux
-
-## Background
-
-**MSc Financial Engineering** —> WorldQuant University
-**BSc Actuarial Science** —> Mount Kenya University
-**Software Engineering** —> Moringa School
-
-My academic and technical background sits at the intersection of **mathematics, finance, risk, and software**.
-
-## What I'm Building Toward
-
-I’m continuing to deepen my work in quantitative finance, with particular interest in:
-
-* Quantitative research
-* Quantitative risk and risk modeling
-* Financial modeling
-* Credit and lending models
-* Portfolio and market analysis
-* Computational finance
-
-I’m especially interested in problems where rigorous mathematical reasoning can be combined with practical computation to produce something useful.
+</div>
 
 ---
 
-**Portfolio:** joynjoroge.site
-**GitHub:** github.com/JoyNjoroge
+### <img src="about.svg" width="25" height="25" valign="middle"> about me
+
+I work at the intersection of **finance, mathematics, risk, and software**.
+
+My background is in Actuarial Science and Software Engineering, and I’m currently pursuing a Master's in Financial Engineering. I’m interested in quantitative finance, financial modeling, risk, financial markets, and research that can survive contact with real data.
+
+I like taking a financial question, turning it into something testable, and then building the thing that answers it.
+
+---
+
+### <img src="research.svg" width="25" height="25" valign="middle"> quantitative research
+
+My current research interests include:
+
+- Factor investing and risk premia
+- Alpha research and systematic strategies
+- Portfolio construction and optimization
+- Risk budgeting and risk parity
+- Black–Litterman models
+- Volatility and tail-risk modeling
+- Backtesting and out-of-sample validation
+- Quantitative approaches to digital-asset markets
+
+---
+
+### <img src="risk.svg" width="25" height="25" valign="middle"> risk & financial modeling
+
+My actuarial background gives me a particular interest in quantitative risk.
+
+I’m exploring:
+
+- Probability of Default (PD)
+- Loss Given Default (LGD)
+- Exposure at Default (EAD)
+- Expected Loss
+- Survival analysis and time-to-default
+- VaR and Expected Shortfall
+- Stress testing
+- Risk attribution
+- Credit and portfolio modeling
+
+---
+
+### <img src="quant.svg" width="25" height="25" valign="middle"> selected work
+
+**Alpha Generator**  
+Quantitative research using WorldQuant BRAIN, with a focus on factor construction, alpha generation, and statistical evaluation.
+
+**LoanLens**  
+A lending-focused project exploring credit analysis, financial risk, and the interpretation of loan agreements.
+
+More projects are being rebuilt around quantitative finance, risk, markets, and financial modeling.
+
+---
+
+### <img src="terminal.svg" width="25" height="25" valign="middle"> tools
+
+**Python** · **SQL** · **PostgreSQL** · **NumPy** · **Pandas** · **scikit-learn** · **Matplotlib**
+
+**FastAPI** · **Flask** · **Docker** · **Git** · **Linux**
+
+---
+
+### <img src="research.svg" width="25" height="25" valign="middle"> currently building
+
+A smaller, deeper portfolio.
+
+Less:
+
+`random project → abandoned repo → new idea → repeat`
+
+More:
+
+`financial question → hypothesis → model → experiment → validation → explanation`
+
+The goal is to build work that demonstrates **how I think**, not just how many technologies I can list.
+
+---
+
+### <img src="about.svg" width="25" height="25" valign="middle"> background
+
+**MSc Financial Engineering** — WorldQuant University  
+**BSc Actuarial Science** — Mount Kenya University  
+**Software Engineering** — Moringa School
+
+---
+
+<div align="center">
+
+**Quantitative Finance · Quantitative Risk · Financial Research**
+
+<br>
+
+<a href="https://www.joynjoroge.site">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/joynjorogesaas">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://orcid.org/">ORCID</a>
+
+</div>
