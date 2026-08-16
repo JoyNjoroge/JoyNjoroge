@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="up.svg" alt="Animated clouds and quantitative symbols" width="100%">
+<img src="coolstuffimage.png" alt="Animated clouds and quantitative symbols" width="100%">
 
 <br>
 
-<img src="joy-njoroge-title.png" alt="Joy Njoroge" width="430">
+<img src="name.png" alt="Joy Njoroge" width="430">
 
 ### Financial Engineering · Quantitative Finance · Risk
 
