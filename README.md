@@ -89,9 +89,9 @@ The goal is to build work that demonstrates **how I think**, not just how many t
 
 ### <img src="about.svg" width="25" height="25" valign="middle"> background
 
-**MSc Financial Engineering** — WorldQuant University  
-**BSc Actuarial Science** — Mount Kenya University  
-**Software Engineering** — Moringa School
+**MSc Financial Engineering** ➔ WorldQuant University  
+**BSc Actuarial Science** ➔ Mount Kenya University  
+**Software Engineering** ➔ Moringa School
 
 ---
 
