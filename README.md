@@ -4,12 +4,6 @@
 
 <br>
 
-<img src="name.png" alt="Joy Njoroge" width="430">
-
-### Financial Engineering · Quantitative Finance · Risk
-
-*Mathematics · Statistics · Computation*
-
 </div>
 
 ---
@@ -102,8 +96,11 @@ The goal is to build work that demonstrates **how I think**, not just how many t
 ---
 
 <div align="center">
+<img src="name.png" alt="Joy Njoroge" width="430">
 
-**Quantitative Finance · Quantitative Risk · Financial Research**
+### Financial Engineering · Quantitative Finance · Risk
+
+*Mathematics · Statistics · Computation*
 
 <br>
 
@@ -111,6 +108,8 @@ The goal is to build work that demonstrates **how I think**, not just how many t
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/joynjorogesaas">LinkedIn</a>
 &nbsp; · &nbsp;
-<a href="https://orcid.org/">ORCID</a>
+<a href="https://orcid.orgh/0009-0004-7644-6110/">ORCID</a>
+
+---
 
 </div>
