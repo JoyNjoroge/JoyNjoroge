@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="coolstuffimage.png" alt="Animated clouds and quantitative symbols" width="100%">
+<img src="neon_banner.png" alt="Banner" width="100%">
 
 <br>
 
